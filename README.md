@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujit016
-- 👀 I’m interested in ... Statistical Computing, Biostatistics & Mathematical biology 
+- 👀 I’m interested in ... Statistical Computing & Biostatistics  
 - 📫 How to reach me ... Email id sujitchaugule016@gmail.com
 - 😄 Personal Web Page: https://tinyurl.com/Sujit106 
 
