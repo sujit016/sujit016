@@ -1,5 +1,4 @@
 
-````markdown name=README.md
 # 👋 Hi, I'm Sujit Chaugule!
 
 Welcome to my GitHub profile.
@@ -29,4 +28,4 @@ Welcome to my GitHub profile.
 ---
 
 Thanks for visiting my profile! 😊
-````
+
