@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**sujit016/sujit016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sujit Chaugule!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 💡 Passionate about **Statistical Computing**
+- 🧑‍🔬 Coding mainly in **R** and **Julia**
+- 🛠️ Favorite editors: **VS Code** and **RStudio**
+- 🌱 Always learning more about reproducible research and scientific computing
+- 🚀 Exploring new tools and methods in open science
+
+## 💻 Tools & Technologies
+- **Languages:** R, Julia, (some Bash)
+- **Tools:** Jupyter Notebooks, RMarkdown, VS Code, RStudio, Git & GitHub
+- **Interests:** Statistical modeling, data visualization, open science
+
+## 📊 GitHub Stats
+![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujit016&show_icons=true)
+
+## 📫 How to Reach Me
+- Email: [sujitchaugule016@gmail.com](mailto:sujitchaugule016@gmail.com)
+- LinkedIn: [Sujit Chaugule](https://www.linkedin.com/in/sujit-chaugule-52a354213)
+
+---
+
+Thanks for visiting my profile! 😊
