@@ -13,7 +13,7 @@ Welcome to my GitHub profile.
 ## 💻 Tools & Technologies
 - **Languages:** R, Julia, (some Bash)
 - **Tools:** Jupyter Notebooks, RMarkdown, VS Code, RStudio, Git & GitHub
-- **Interests:** Statistical modeling, data visualization, open science
+- **Interests:** Statistical Modeling,Dcientific Computing 
 
 ## 📊 GitHub Stats
 ![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujit016&show_icons=true)
