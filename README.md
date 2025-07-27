@@ -12,7 +12,7 @@ Welcome to my GitHub profile.
 
 ## 💻 Tools & Technologies
 - **Languages:** R, Julia, (some Bash)
-- **Tools:** Jupyter Notebooks, RMarkdown, VS Code, RStudio, Git & GitHub
+- **Tools:** Jupyter Notebooks, VS Code, RStudio, Git & GitHub
 - **Interests:** Statistical Modeling,Dcientific Computing 
 
 ## 📊 GitHub Stats
