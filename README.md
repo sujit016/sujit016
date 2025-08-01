@@ -13,7 +13,7 @@ Welcome to my GitHub profile.
 ## 💻 Tools & Technologies
 - **Languages:** R, Julia, (some Bash)
 - **Tools:** Jupyter Notebooks, VS Code, RStudio, Positron 
-- **Interests:** Statistical Modeling,Dcientific Computing 
+- **Interests:** Statistical Modeling, Scientific Computing 
 
 
 ## 🌐 Web Page
