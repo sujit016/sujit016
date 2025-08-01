@@ -12,11 +12,9 @@ Welcome to my GitHub profile.
 
 ## 💻 Tools & Technologies
 - **Languages:** R, Julia, (some Bash)
-- **Tools:** Jupyter Notebooks, VS Code, RStudio, Git & GitHub
+- **Tools:** Jupyter Notebooks, VS Code, RStudio, Positron 
 - **Interests:** Statistical Modeling,Dcientific Computing 
 
-## 📊 GitHub Stats
-![Sujit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujit016&show_icons=true)
 
 ## 🌐 Web Page
 - [Visit my web page](https://tinyurl.com/Sujit106)
