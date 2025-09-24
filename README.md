@@ -5,7 +5,7 @@
 Welcome to my GitHub profile.
 
 ## 🧑‍💻 About Me
-- 💡 Passionate about **Statistical Computing**
+- 💡 Interested in **Statistical Computing** & **Biostatistics**
 - 🧑‍🔬 Coding mainly in **R** and **Julia**
 - 🛠️ Favorite editors: **VS Code** and **RStudio**
 - 🌱 Always learning more about reproducible research and scientific computing
@@ -17,7 +17,7 @@ Welcome to my GitHub profile.
 - **Interests:** Statistical Modeling, Scientific Computing
 
 ## 🌐 Web Page
-- [Visit my web page](https://tinyurl.com/Sujit106)
+- [Visit my web page](https://sites.google.com/view/statsphere)
 
 ## 🦊 GitLab
 - [Visit my GitLab Profile](https://gitlab.com/sujit016)
