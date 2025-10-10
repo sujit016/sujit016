@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Sujit Chaugule!
+# 👋 Hi, I'm Sujit Sandipan Chaugule!
 
 Welcome to my GitHub profile.
 
