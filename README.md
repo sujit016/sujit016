@@ -8,7 +8,7 @@ Welcome to my GitHub profile.
 - 💡 Interested in **Statistical Computing** & **Biostatistics**
 - 🧑‍🔬 Coding mainly in **R** and **Julia**
 - 🛠️ Favorite editors: **VS Code** and **RStudio**
-- 🌱 Always learning more about **Statistics** and **Scientific Computing**
+- 🌱 Always learning more about **Statistics** , **Life Sciences** and **Scientific Computing**
 - 🚀 Exploring new tools and methods in open science
 
 ## 💻 Tools & Technologies
