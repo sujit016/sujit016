@@ -5,16 +5,7 @@
 Welcome to my GitHub profile.
 
 ## 🧑‍💻 About Me
-- 💡 Interested in **Statistical Computing** & **Biostatistics**
-- 🧑‍🔬 Coding mainly in **R** and **Julia**
-- 🛠️ Favorite editors: **VS Code** and **RStudio**
-- 🌱 Always learning more about **Statistical Computing** , **Life Sciences** 
-- 🚀 Exploring new tools and methods in open science
-
-## 💻 Tools & Technologies
-- **Languages:** R, Julia, (some Bash)
-- **Tools:** Jupyter Notebooks, VS Code, RStudio, Positron
-- **Interests:** Statistical Modeling, Scientific Computing
+- 💡 Research interest in **Statistical Computing** & **Statistical Inference**
 
 ## 🌐 Web Page
 - [Visit my web page](https://sites.google.com/view/statsphere)
