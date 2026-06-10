@@ -1,11 +1,9 @@
-
-
 # 👋 Hi, I'm Sujit Sandipan Chaugule!
 
 Welcome to my GitHub profile.
 
 ## 🧑‍💻 About Me
-- 💡 Research interest in **Statistical Computing** & **Statistical Inference**
+- 💡 Research interest in **Statistical Computing, Computational Statisitcs, Statistical Inference** & **Computational Biology**
 
 ## 🌐 Web Page
 - [Visit my web page](https://sites.google.com/view/statsphere)
